@@ -27,15 +27,8 @@ I am a **Systems Engineering student** passionate about backend development, dat
 
 ---
 
-### 📊 GitHub Stats:
-![Juan David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
 ### 📫 Contact Me:
-- 📧 Email: your-email@example.com
+- 📧 Email: juanda232405@hotmail.com
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - 📝 Portfolio: [Your Portfolio](https://your-portfolio.com)
 
