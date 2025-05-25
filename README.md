@@ -29,5 +29,5 @@ I am a **Systems Engineering student** passionate about backend development, dat
 
 ### 📫 Contact Me:
 - 📧 Email: juanda232405@hotmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/juan-david-pati%C3%B1o-zambrano-501305322/)
+- 💼 LinkedIn: [Juan David Patiño](https://www.linkedin.com/in/juan-david-pati%C3%B1o-zambrano-501305322/)
 💡 *Let's connect and create amazing projects together!* 🚀
